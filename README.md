@@ -12,7 +12,7 @@ Contact Information: Multiple ways to get in touch with me, including a contact 
 Blog: Insights into my thoughts on recent technology trends, tips, and tutorials.
 Responsive Design: Optimized for viewing on a variety of devices, ensuring a smooth user experience whether you're on a desktop, tablet, or mobile phone.
 <br>
-<h1></h1>Technologies Used </h1>
+<h1> Technologies Used </h1>
 <br>
 This portfolio is built using the following technologies:
 
